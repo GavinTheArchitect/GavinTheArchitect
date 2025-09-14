@@ -51,7 +51,7 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 
 ### 4. Leverage Academic and Professional Foundations
 - Hold **GIAC Security Essentials (GSEC)** and **GIAC Foundational Cybersecurity Technologies (GFACT)** certifications.
-- Recognized as an **AP Scholar with Honors** and one of the only **dual-award recipients in Business and Computer Science** from a graduating class of ~1,000 students.
+- Recognized as an **AP Scholar with Honors** and one of the only **dual-award recipients in both Business and Computer Science** from a graduating class of ~1,000 students.
 - Achieved **top 1% programmers** in the U.S. on a prior GitHub account (discontinued since age 17), blending **theoretical knowledge** with **practical expertise**.
 
 ### 5. Drive Growth and Innovation
