@@ -100,4 +100,8 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 - To **view the profile**, **click** above on the **provided GIF**.
 - **Full link** provided below for those who **prefer not to click** the **GIF**.
 
+<p align="center">
+  <a href="https://github.com/CY83R-3X71NC710N">View my previous GitHub profile</a> for earlier work and contributions.
+</p>
+
 ---
