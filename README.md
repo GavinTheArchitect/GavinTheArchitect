@@ -83,7 +83,7 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 
 ---
 
-<h1 align="center">Link to Archived GitHub Profile (CY83R-3X71NC710N)</h1>
+<h3 align="center">Link to Archived GitHub Profile (CY83R-3X71NC710N)</h3>
 
 ---
 
