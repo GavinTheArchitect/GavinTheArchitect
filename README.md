@@ -71,7 +71,7 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 ### 7. Personal Development for Professional Excellence
 - Cultivate **discipline** and **creativity** through hobbies:
   - **Biking**, **advanced photography**, **martial arts**, **weight lifting**, **DJing**, and **music production**.
-  - Rarely play video games, preferring more effective ways to connect with others.
+  - **Sometimes play video games**, rarely though, preferring more effective ways to connect with others.
 - These activities enhance my ability to stay **focused** and **innovative** under pressure.
 
 ### 8. Showcase Growth Through GitHub
