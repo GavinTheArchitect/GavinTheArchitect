@@ -84,7 +84,9 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 ---
 
 <h1 align="center">
-  <img src="cy83r-3x71nc710n-text.gif" alt="CY83R-3X71NC710N">
+  <a href="https://github.com/CY83R-3X71NC710N">
+    <img src="cy83r-3x71nc710n-text.gif" alt="CY83R-3X71NC710N">
+  </a>
 </h1>
 
 ---
