@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <strong>Red Teamer, Offensive AI Engineer, Threat Hunter, Bug Bounty Hunter, Zero-Day Researcher, Offensive Security Architect, Leader.</strong><br>
+  <strong>Leader, Offensive Security Architect, Red Teamer, Offensive AI Engineer, Threat Hunter, Bug Bounty Hunter, Zero-Day Researcher</strong><br>
 </p>  
 
 ---
