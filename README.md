@@ -6,6 +6,9 @@
 
 <p align="center">
   <strong>Red Teamer, Offensive AI Engineer, Threat Hunter, Bug Bounty Hunter, Zero-Day Researcher, Offensive Security Architect, Leader.</strong><br>
+  
+---
+
   Specialization: Offensive Security, Offensive AI, OS Internals, Social Engineering, and OSINT<br>
 </p>
 
