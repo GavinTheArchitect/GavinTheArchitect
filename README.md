@@ -87,6 +87,13 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 
 ---
 
-**I've included a link to a secondary GitHub profile** that **archives** my **early work** and **projects** from **high school**. This profile stands as a **powerful testament** to my **long-standing passion** and **laser dedication** to the field, showcasing a **rich history** of hands-on experience and **continuous learning**. **I maintain a separate professional profile (this one)** to **highlight my current, college-level work** and a **carefully curated set of projects** that align with my **professional and academic goals**. **This strategic separation allows me to demonstrate my evolution** from a **young enthusiast** to a **focused, professional cybersecurity expert**. To view my profile please **click on the GIF** **if you do not want** to **click** the **GIF** I have provided the **full-link below.**
+- **Included a link** to my **secondary GitHub profile** that **archives early work** and **projects** from **high school**.
+- **Secondary profile** serves as a **powerful testament** to **long-standing passion** and **laser dedication** to the field.
+- **Showcases** a **rich history** of **hands-on experience** and **continuous learning**.
+- **Maintains a separate professional profile** to **highlight current, college-level work**.
+- **Professional profile** includes a **carefully curated set of projects** aligned with **professional and academic goals**.
+- **Strategic separation** of profiles **demonstrates evolution** from a **young enthusiast** to a **focused, professional cybersecurity expert**.
+- To **view the profile**, **click** on the **provided GIF**.
+- **Full link** provided below for those who **prefer not to click** the **GIF**.
 
 ---
