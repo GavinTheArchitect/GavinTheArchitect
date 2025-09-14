@@ -9,7 +9,9 @@
 </p>  
 
 ---
+
 <p align="center">
   Specialization: Offensive Security, Offensive AI, OS Internals, Social Engineering, and OSINT<br>
 </p>
+
 ---
