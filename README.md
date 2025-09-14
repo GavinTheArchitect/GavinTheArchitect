@@ -82,7 +82,7 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 - Training to place high in the **GoogleCTF**, demonstrating my dedication to **excellence in cybersecurity**.
   
 ### 10. Philosophical Approach
-- **I take a philosophical approach to Cybersecurity** I believe that all systems have a **single vector** of weakness that once pressed can **destroy** the entire **system** from a **single point**. I also believe in **force multiplication of AI** and the ability to do things that take **decades** in **months** with a **solid team, AI, and strategic collaboration**. **I** **believe** in **purple-shaded duality**, when I approach **Cybersecurity** I take things from both the **offensive and defensive** prespective to paint a **bigger picture**.
+- **I take a philosophical approach to Cybersecurity** I believe that all systems have a **single vector** of weakness that once pressed can **destroy** the entire **system** from a **single point**. I also believe in **force multiplication of AI** and the ability to do things that take **decades** in **months** with a **solid team, AI, and strategic collaboration**. **I** **believe** in **purple-shaded duality**, when I approach **Cybersecurity** I take things from both the **offensive and defensive** prespective to paint a **bigger picture**. **I view Cybersecurity from a **financial, business, and poltical prespective**, this allows me to see how **global events** in the world impact both the **company and my craft**. **I believe** in conducting Cybersecurity **operations** in accordance with the **protocols of the company, law, upholding integrity and morals** when  I **conduct business**
 
 ---
 
