@@ -87,7 +87,7 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 - **Single Vector of Weakness**: I believe that **every system has a critical vulnerability that, if exploited, can compromise the entire system from a single point.**
 - **AI-Driven Force Multiplication**: I advocate for leveraging **AI to accelerate processes**, enabling tasks that would take **decades to be completed in months through a strong team, AI integration, and strategic collaboration.**
 - **Purple-Shaded Duality**: My approach to Cybersecurity **blends offensive and defensive perspectives,** creating a **comprehensive view** to enhance security strategies.
-- **Multidimensional Perspective**: I analyze Cybersecurity through **financial, business, and political lenses**, recognizing how **global events** impact both the **organization and my craft.**
+- **Multidimensional Perspective**: I analyze Cybersecurity through **financial, business, and political lenses**, recognizing how **global events and organizational ones** impact both the **organization and my craft.**
 - **Ethical Operations**: I conduct **Cybersecurity operations** in alignment with **company protocols, legal standards, and a commitment** to integrity and moral principles.
 
 ---
