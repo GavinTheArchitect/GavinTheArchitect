@@ -83,7 +83,9 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 
 ---
 
-<h3 align="center">Link to Archived GitHub Profile (CY83R-3X71NC710N)</h3>
+<h1 align="center">
+  <img src="cy83r-3x71nc710n-text.gif" alt="CY83R-3X71NC710N">
+</h1>
 
 ---
 
@@ -93,7 +95,7 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 - **Maintains a separate professional profile** to **highlight current, college-level work**.
 - **Professional profile** includes a **carefully curated set of projects** aligned with **professional and academic goals**.
 - **Strategic separation** of profiles **demonstrates evolution** from a **young enthusiast** to a **focused, professional cybersecurity expert**.
-- To **view the profile**, **click** on the **provided GIF**.
+- To **view the profile**, **click** above on the **provided GIF**.
 - **Full link** provided below for those who **prefer not to click** the **GIF**.
 
 ---
