@@ -22,7 +22,7 @@
 
 ---
 
-# Cybersecurity Leadership Strategy
+# Executive Summary & Leadership Strategy
 
 I will lead your **cybersecurity team** to protect our **financial performance** and **brand reputation**. Through a **proactive security program** centered on **penetration testing** and **vulnerability analysis**, we will prevent costly cyberattacks and reduce **operational costs** tied to incident response. Success will be tracked with **key metrics**, such as faster **threat detection and resolution times**, delivering a clear **return on investment** and building a **resilient, trusted organization**.
 
