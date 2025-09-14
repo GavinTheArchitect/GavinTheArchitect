@@ -88,7 +88,7 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 ---
 
 - **Included a link** to my **secondary GitHub profile** that **archives early work** and **projects** from **high school**.
-- **Secondary profile** serves as a **powerful testament** to **long-standing passion** and **laser dedication** to the field.
+- **Secondary profile** serves as a **powerful testament** to **long-standing passion** and **laser piercing dedication** to the field.
 - **Showcases** a **rich history** of **hands-on experience** and **continuous learning**.
 - **Maintains a separate professional profile** to **highlight current, college-level work**.
 - **Professional profile** includes a **carefully curated set of projects** aligned with **professional and academic goals**.
