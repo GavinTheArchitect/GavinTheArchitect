@@ -4,7 +4,6 @@
 
 <p align="center">
   <strong>Red Teamer, Offensive AI Engineer, Threat Hunter, Bug Bounty Hunter, Zero-Day Researcher, Offensive Security Architect, Leader.</strong><br>
-  <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em><br>
 </p>
 
 ---
