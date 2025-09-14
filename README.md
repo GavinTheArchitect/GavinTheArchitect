@@ -98,10 +98,10 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 - **Professional profile** includes a **carefully curated set of projects** aligned with **professional and academic goals**.
 - **Strategic separation** of profiles **demonstrates evolution** from a **young enthusiast** to a **focused, professional cybersecurity expert**.
 - To **view the profile**, **click** above on the **provided GIF**.
-- **Full link** provided below for those who **prefer not to click** the **GIF**.
+- **Full link** provided **below** for those who **prefer not to click** the **GIF**.
 
 <p align="center">
-  <a href="https://github.com/CY83R-3X71NC710N">View my previous GitHub profile</a>
+  <a href="https://github.com/CY83R-3X71NC710N">View My Previous GitHub Profile</a>
 </p>
 
 ---
