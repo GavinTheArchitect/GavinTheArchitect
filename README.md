@@ -85,7 +85,7 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 
 - **Philosophical Approach to Cybersecurity**: I adopt a **thoughtful and strategic mindset** toward Cybersecurity, focusing on **understanding systems holistically.**
 - **Single Vector of Weakness**: I believe that **every system has a critical vulnerability that, if exploited, can compromise the entire system from a single point.**
-- **With Time*** I believe this **single vector of weakness** will eventually be exploited just by probability of **compounding effect**. This is similar to the **Snowball Effect** with **investing.**
+- **With Time** I believe this **single vector of weakness** will eventually be exploited just by probability of **compounding effect**. This is similar to the **Snowball Effect** with **investing.**
 - **I help** your organization **find this shatterpoint** before **someone** with **less than nice intentions** does.
 - **AI-Driven Force Multiplication**: I advocate for leveraging **AI to accelerate processes**, enabling tasks that would take **decades to be completed in months through a strong team, AI integration, and strategic collaboration.**
 - **Purple-Shaded Duality**: My approach to Cybersecurity **blends offensive and defensive perspectives,** creating a **comprehensive view** to enhance security strategies.
