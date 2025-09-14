@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  Specialization: Offensive Security, Offensive AI, OS Internals, Social Engineering, and OSINT<br>
+  Specialization: Offensive Security, Offensive AI, OS Internals, Social Engineering, OSINT, AI Force-Multiplication<br>
 </p>
 
 ---
