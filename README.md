@@ -70,7 +70,7 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 
 ### 7. Personal Development for Professional Excellence
 - Cultivate **discipline** and **creativity** through hobbies:
-  - **Biking**, **advanced photography**, **martial arts**, **weight lifting**, **DJing**, and **music production**.
+  - **Biking**, **Advanced Photography**, **Martial Arts**, **Weight Lifting**, **DJing**, and **Music Production**.
   - **Sometimes play video games**, rarely though, preferring more effective ways to connect with others.
 - These activities enhance my ability to stay **focused** and **innovative** under pressure.
 
