@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  **Previously** known as **CY83R-3X71NC710N**
+  <strong>Previously</strong> known as <strong>CY83R-3X71NC710N</strong>
 </p>
 
 ---
