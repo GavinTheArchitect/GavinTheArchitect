@@ -81,7 +81,8 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 ### 9. Commitment to Continuous Improvement
 - Training to place high in the **GoogleCTF**, demonstrating my dedication to **excellence in cybersecurity**.
 
-
-- **I've included a link to a secondary GitHub profile** that **archives** my early **work** and **projects** from **high school.** This profile serves as a testament to my long-standing **passion and dedication to the field**, demonstrating a history of hands-on experience and continuous learning. **I maintain a separate professional profile to highlight my current, college-level work** and a more focused set of projects that align with my professional and academic goals. **This allows me to showcase my growth from a young enthusiast to a focused, professional cybersecurity expert.**
-
 ---
+
+# Link to Archived GitHub Profile (CY83R-3X71NC710N)
+
+**I've included a link to a secondary GitHub profile** that **archives** my **early work** and **projects** from **high school**. This profile stands as a **powerful testament** to my **long-standing passion** and **unwavering dedication** to the field, showcasing a **rich history** of hands-on experience and **continuous learning**. **I maintain a separate professional profile** to **highlight my current, college-level work** and a **carefully curated set of projects** that align with my **professional and academic goals**. **This strategic separation allows me to demonstrate my evolution** from a **young enthusiast** to a **focused, professional cybersecurity expert**.
