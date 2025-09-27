@@ -75,7 +75,7 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 - These activities enhance my ability to stay **focused** and **innovative** under pressure.
 
 ### 8. Showcase Growth Through GitHub
-- Maintain a **secondary GitHub profile** archiving high school projects, reflecting my **long-standing passion** for cybersecurity.
+- Maintain a **secondary GitHub Pro profile** archiving high school projects, reflecting my **long-standing passion** for cybersecurity.
 - Use a **professional GitHub profile** to highlight **college-level work** aligned with my **professional and academic goals**, showcasing my evolution into a **focused cybersecurity expert**.
 
 ### 9. Commitment to Continuous Improvement
@@ -102,7 +102,7 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 
 ---
 
-- **Included a link** to my **secondary GitHub profile** that **archives early work** and **projects** from **high school**.
+- **Included a link** to my **secondary GitHub Pro profile** that **archives early work** and **projects** from **high school**.
 - **Secondary profile** serves as a **powerful testament** to **long-standing passion** and **laser piercing dedication** to the field.
 - **Showcases** a **rich history** of **hands-on experience** and **continuous learning**.
 - **Maintains a separate professional profile** to **highlight current, college-level work**.
@@ -112,7 +112,7 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 - **Full link** provided **below** for those who **prefer not to click** the **GIF**.
 
 <p align="center">
-  <a href="https://github.com/CY83R-3X71NC710N">View My Previous GitHub Profile</a>
+  <a href="https://github.com/CY83R-3X71NC710N">View My Previous GitHub Pro Profile</a>
 </p>
 
 ---
