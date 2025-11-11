@@ -100,7 +100,7 @@ I believe in mastering both sides of security: I build and I break. Operating wi
 A custom, security-focused Linux distribution engineered for penetration testing and security research. This is my primary development testbed for integrating novel security tools and system hardening techniques.
 </p>
 
-* **Architecture:** Built on a hardened Fedora base, integrating Pop!_OS tiling (COSMIC), and leveraging a Blackarch Docker container for an expanded toolset.
+* **Architecture:** Built on a Kali Linux Base, intergrating KDE DE, and leveraging a Blackarch Docker container for an expanded toolset.
 
 ---
 
