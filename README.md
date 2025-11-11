@@ -64,7 +64,7 @@ I believe in mastering both sides of security: I build and I break. Operating wi
 
 <h4 align="center">Eclipse Shield - AI-Powered Productivity Analyzer with Enterprise Security</h4>
 <p align="center">
-    <strong><a href="https://github.com/GavinTheArchitect/Eclipse-Shield">View Repository (on this profile) →</a></strong>
+    <strong><a href="https://github.com/GavinTheArchitect/Eclipse-Shield">View Repository →</a></strong>
     <br>An AI-powered system that analyzes user browsing patterns to block unproductive sites based on contextual task understanding. This was a deep dive into production-grade security engineering.
 </p>
 
@@ -83,7 +83,7 @@ I believe in mastering both sides of security: I build and I break. Operating wi
 
 <h4 align="center">Event_Zero – Autonomous Malware Annihilation Engine</h4>
 <p align="center">
-    <strong><a href="https://github.com/GavinTheArchitect/Event_Zero">View Repository (on this profile) →</a></strong>
+    <strong><a href="https://github.com/GavinTheArchitect/Event_Zero">View Repository →</a></strong>
     <br>An experimental, AI-driven architecture for the autonomous deconstruction and behavioral mapping of malicious code. It gives a Tier 1 AI (Google Gemini) full autonomy within a hardened BlackArch container to hunt, dissect, and neutralize threats.
 </p>
 
@@ -109,6 +109,7 @@ A custom, security-focused Linux distribution engineered for penetration testing
 ---
 
 <h3 align="center">Open Source Contributions</h3>
+
 * **[spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic/pull/117):** Revived an unmaintained project by patching the core auth error, becoming the de facto community version.
 * **[swayfx](https://github.com/WillPower3309/swayfx/pull/406):** Patched a critical build failure in the Wayland compositor's Nix flake dependencies.
 * **[SillyTavern Extension](https://github.com/SillyTavern/Extension-Speech-Recognition/pull/19):** Deployed a "heartbeat" mechanism to fix a persistent Web Speech API bug in the popular AI toolkit (16k+ stars).
