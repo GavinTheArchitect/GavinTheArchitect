@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/Focus-Bug%20Bounty-brightgreen?style=for-the-badge" alt="Bug Bounty"/>
 </p>
 
+<p align="center">
+  <a href="[Your LinkedIn URL]">LinkedIn</a> • <a href="mailto:[Your Email]">Email</a>
+</p>
+
 ---
 
 <h3 align="center">About Me</h3>
@@ -104,6 +108,18 @@ A custom, security-focused Linux distribution engineered for penetration testing
 
 ---
 
+<h4 align="center">ShadowGuardAI - AI-Driven Defensive Tool Generator</h4>
+<p align="center">
+    <strong><a href="https://github.com/ShadowGuardAI">View the Organization →</a></strong>
+    <br>An AI research project using CI/CD and Gemini 2.5 Pro to auto-generate defensive security tools at scale.
+</p>
+
+* **At-Scale:** The system has successfully generated over 580+ defensive-focused repositories.
+* **AI-Driven:** Leverages Google's Gemini 2.5 Pro to architect, code, and deploy entire GitHub projects.
+* **Defensive Focus:** This research focuses on creating a wide array of defensive and analytical cybersecurity tools.
+
+---
+
 <h3 align="center">Open Source Contributions</h3>
 
 * **[spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic/pull/117):** Revived an unmaintained project by patching the core auth error, becoming the de facto community version.
@@ -115,7 +131,7 @@ A custom, security-focused Linux distribution engineered for penetration testing
 <h3 align="center">Historical Archive (CY83R-3X71NC710N)</h3>
 
 <p align="center">
-This is my original high-school account, <strong>CY83R-3X71NC710N</strong>. It remains public as a <strong>read-only archive</strong> of my open-source contributions, 500+ followers, and historical stats.
+This is my original high-school account, <strong>CY83R-3X77NC710N</strong>. It remains public as a <strong>read-only archive</strong> of my open-source contributions, 500+ followers, and historical stats.
 <br><br>
 The trophies and stats below are from that archived profile.
 </p>
