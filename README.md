@@ -103,7 +103,7 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 ---
 
 - **Included a link** to my **secondary GitHub Pro profile** that **archives early work** and **projects** from **high school**.
-- **Secondary profile** serves as a **powerful testament** to **long-standing passion** and **laser piercing dedication** to the field.
+- **Secondary profile** serves as a **powerful testament** to **long-standing passion** and **laser piercing dedication** to the field. On my newer profile, I choose not to follow anyone on GitHub, preferring a more private account now that I have a deeper understanding of cybersecurity.
 - **Showcases** a **rich history** of **hands-on experience** and **continuous learning**.
 - **Maintains a separate professional profile** to **highlight current, college-level work**.
 - **Professional profile** includes a **carefully curated set of projects** aligned with **professional and academic goals**.
