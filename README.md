@@ -117,7 +117,9 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 
 ---
 
-# GitHub Medals Of Honor Collected
+<p align="center">
+   <h1>GitHub Medals Of Honor Collected (incl CY83R-3X71NC710N)</h1>
+</p>
 
 ---
 
