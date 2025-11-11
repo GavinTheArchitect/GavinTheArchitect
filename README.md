@@ -1,147 +1,133 @@
----
-
-<h1 align="center">GavinTheArchitect</h1>
-
----
+# GavinTheArchitect
+### Cybersecurity Researcher & Developer
+*(Previously CY83R-3X71NC710N)*
 
 <p align="center">
-  <strong>Previously</strong> known as <strong>CY83R-3X71NC710N</strong>
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge" alt="Offensive Security"/>
+  <img src="https://img.shields.io/badge/Focus-Offensive%20AI-purple?style=for-the-badge" alt="Offensive AI"/>
+  <img src="https://img.shields.io/badge/Focus-OS%20Internals-blue?style=for-the-badge" alt="OS Internals"/>
+  <img src="https://img.shields.io/badge/Focus-Red%20Teaming-darkred?style=for-the-badge" alt="Red Teaming"/>
+  <img src="https://img.shields.io/badge/Focus-Bug%20Bounty-brightgreen?style=for-the-badge" alt="Bug Bounty"/>
+</p>
+
+<p align="center">
+  <a href="[Your LinkedIn URL]">LinkedIn</a> • <a href="mailto:[Your Email]">Email</a>
 </p>
 
 ---
 
-<p align="center">
-  <strong>Leader, Offensive Security Architect, Red Teamer, Offensive AI Engineer, Threat Hunter, Bug Bounty Hunter, Zero-Day Researcher</strong><br>
-</p>  
+### About Me
+
+My fascination with technology began not with formal coursework, but with a fundamental curiosity about how systems work. This passion, which I've pursued since the age of 12, led me to cybersecurity. I have now spent five years deeply immersed in systems engineering, offensive security tradecraft, and autonomous tool development.
+
+I believe in mastering both sides of security: I build and I break. Operating with a "purple-shaded" methodology, I thrive on this duality.
+
+**My Trajectory:** I'm aiming for Tier 1 exploit development and advanced penetration testing, on par with teams like Google's Project Zero, Apple SEAR, and the NSA's TAO.
+
+---
+
+### Experience
+
+**Founding Security Engineer (Intern)** | **Maze3 Studios LLC** | *July 2025 – Present*
+* Building the company's security program from the ground up for a new game development studio.
+* Solely responsible for all offensive and defensive security research, planning, and implementation.
+* Advising the co-founders on secure coding practices, infrastructure hardening, and risk management.
+
+---
+
+### Key Achievements & Recognition
+
+* **NSA Codebreaker Challenge (2023-2024):** Placed #72 out of 450+ competing institutions, competing solo against multi-person university teams to finish in the top 16% nationally.
+* **Cyberstart America (Top 1%):** Recognized as a **National Cyber Scholar with Honors** for three consecutive years, earning **$12,000 in scholarships**.
+* **GIAC Advisory Board:** Invited to join this elite guidance community as a recognized top scorer on SANS/GIAC certification exams.
+* **FBI Teen/Youth Engagement (TEAM) Program:** Selected for the competitive federal program for mentorship from Bureau personnel.
+
+---
+
+### Education & Certifications
+
+* **GIAC Security Essentials (GSEC)**
+* **GIAC Foundational Cybersecurity Technologies (GFACT)**
+* **AP Scholar with Honors** & Dual-Award Recipient (Business & Computer Science)
 
 ---
 
 <p align="center">
-  <strong>Specialization:</strong> Offensive Security, Offensive AI, OS Internals, Social Engineering, OSINT, AI Force-Multiplication<br>
+   <h1>Featured Projects</h1>
 </p>
 
----
-
-# Executive Summary & Leadership Strategy
-
-I will lead your **cybersecurity team** to protect our **financial performance** and **brand reputation**. Through a **proactive security program** centered on **penetration testing** and **vulnerability analysis**, we will prevent costly cyberattacks and reduce **operational costs** tied to incident response. Success will be tracked with **key metrics**, such as faster **threat detection and resolution times**, delivering a clear **return on investment** and building a **resilient, trusted organization**.
-
-My vision is to transform our **security function** from a cost center into a **strategic business enabler**, making our **security posture** a competitive advantage. I aim to shield against **AI-powered cyber threats** while fostering **innovation** and **customer trust** through cutting-edge security expertise.
-
-## My Strategy
-
-My approach is **holistic**, **proactive**, and grounded in **technical expertise**. As a **force multiplier**, I will focus on the following key areas:
-
-### 1. Strengthen Defensive Capabilities
-- Build a **resilient infrastructure** using my **OS-level expertise**:
-  - Created **ShadowStrike OS**, a custom, security-focused Linux distribution.
-  - Secured **Windows** through debloating and modifications.
-  - Hardened **macOS** for enhanced protection.
-- Implement **custom enterprise MDM profiles** to ensure a consistent security baseline across all devices.
-- Founded **ShadowGuardAI** on GitHub in high school, using **CI/CD pipelines** to develop **AI-driven defensive tools**.
-
-### 2. Embrace Offensive Security
-- Instill an **offensive security mindset** across the team.
-- Leverage my expertise in **reverse engineering**, **bug bounty hunting**, and **AI-driven tools (Event_Zero)** to proactively identify and neutralize threats.
-- Create a **continuous feedback loop** to strengthen defenses daily.
-
-### 3. Build a World-Class Security Team
-- Lead by example, fostering **dual-sided thinking** (defensive and offensive).
-- Mentor the team using my experience:
-  - **National NSA Codebreaker Challenge winner** (top 16% nationally, competing solo against university teams).
-  - **GIAC Advisory Board member**.
-  - Participant in the **FBI Teen/Youth Engagement and Mentorship (TEAM) Program**.
-- Transform the team into a **collaborative powerhouse** that innovates and positions our brand as the **most trusted** in the industry.
-- Recognized as a **National Cyber Scholar with Honors** for three consecutive years, placing in the **top 1%** of Cyberstart America National Competition participants, earning **$12,000 in scholarships**.
-- Contributed to open-source projects: **SillyTavern** (16k+ stars), **swayfx** (GNU/Linux Tiling Window Manager), and **spotify_to_ytmusic**.
-
-### 4. Leverage Academic and Professional Foundations
-- Hold **GIAC Security Essentials (GSEC)** and **GIAC Foundational Cybersecurity Technologies (GFACT)** certifications.
-- Recognized as an **AP Scholar with Honors** and one of the only **dual-award recipients in both Business and Computer Science** from a graduating class of ~1,000 students.
-- Achieved **top 1% programmers** in the U.S. on a prior GitHub account (discontinued since age 17), blending **theoretical knowledge** with **practical expertise**.
-
-### 5. Drive Growth and Innovation
-- Partner with **business units** to embed a **security-first culture** in **innovation** and **market expansion**.
-- Prevent costly breaches while unlocking **new growth opportunities** through a robust security framework.
-
-### 6. Maximize Financial Impact
-- Save **millions in potential damages** from cyberattacks by leveraging my **forward-thinking cybersecurity expertise**.
-- Implement **cost-effective strategies** that anticipate emerging threats, reducing the financial impact of breaches and ensuring long-term **budget efficiency**.
-
-### 7. Personal Development for Professional Excellence
-- Cultivate **discipline** and **creativity** through hobbies:
-  - **Biking**, **Advanced Photography**, **Martial Arts**, **Weight Lifting**, **DJing**, and **Music Production**.
-  - **Sometimes play video games**, rarely though, preferring more effective ways to connect with others.
-- These activities enhance my ability to stay **focused** and **innovative** under pressure.
-
-### 8. Showcase Growth Through GitHub
-- Maintain a **secondary GitHub Pro profile** archiving high school projects, reflecting my **long-standing passion** for cybersecurity.
-- Use a **professional GitHub profile** to highlight **college-level work** aligned with my **professional and academic goals**, showcasing my evolution into a **focused cybersecurity expert**.
-
-### 9. Commitment to Continuous Improvement
-- Training to place high in the **GoogleCTF**, demonstrating my dedication to **excellence in cybersecurity**.
-  
-### 10. Philosophical Approach
-
-- **Philosophical Approach to Cybersecurity**: I adopt a **thoughtful and strategic mindset** toward Cybersecurity, focusing on **understanding systems holistically.**
-- **Single Vector of Weakness**: I believe that **every system has a critical vulnerability that, if exploited, can compromise the entire system from a single point.**
-- **With Time** I believe this **single vector of weakness** will eventually be exploited just by probability of **compounding effect**. This is similar to the **Snowball Effect** with **investing.**
-- **I help** your organization **find this shatterpoint** before **someone** with **less than nice intentions** does.
-- **AI-Driven Force Multiplication**: I advocate for leveraging **AI to accelerate processes**, enabling tasks that would take **decades to be completed in months through a strong team, AI integration, and strategic collaboration.**
-- **Purple-Shaded Duality**: My approach to Cybersecurity **blends offensive and defensive perspectives,** creating a **comprehensive view** to enhance security strategies.
-- **Multidimensional Perspective**: I analyze Cybersecurity through **financial, business, and political lenses**, recognizing how **global events and organizational ones** impact both the **organization and my craft.**
-- **Ethical Operations**: I conduct **Cybersecurity operations** in alignment with **company protocols, legal standards, and a commitment** to integrity and moral principles.
-
----
-
-<h1 align="center">
-  <a href="https://github.com/CY83R-3X71NC710N">
-    <img src="cy83r-3x71nc710n-text.gif" alt="CY83R-3X71NC710N">
+<p align="center">
+  <a href="https://github.com/GavinTheArchitect/Eclipse-Shield" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/CY83R-3X71NC710N/CY83R-3X71NC710N/raw/main/EclipseShield.png" alt="Eclipse Shield Logo" width="250">
   </a>
-</h1>
-
----
-
-- **Included a link** to my **secondary GitHub Pro profile** that **archives early work** and **projects** from **high school**.
-- **Secondary profile** serves as a **powerful testament** to **long-standing passion** and **laser piercing dedication** to the field. On my newer profile, I choose not to follow anyone on GitHub, preferring a more private account now that I have a deeper understanding of cybersecurity. On my old account I have massed around ~500 followers.
-- **Showcases** a **rich history** of **hands-on experience** and **continuous learning**.
-- **Maintains a separate professional profile** to **highlight current, college-level work**.
-- **Professional profile** includes a **carefully curated set of projects** aligned with **professional and academic goals**.
-- **Strategic separation** of profiles **demonstrates evolution** from a **young enthusiast** to a **focused, professional cybersecurity expert**.
-- To **view the profile**, **click** above on the **provided GIF**.
-- **Full link** provided **below** for those who **prefer not to click** the **GIF**.
-
-<p align="center">
-  <a href="https://github.com/CY83R-3X71NC710N">View My Previous GitHub Pro Profile</a>
 </p>
 
+#### **Eclipse Shield - AI-Powered Productivity Analyzer with Enterprise Security**
+* **[View Repository (on this profile) →](https://github.com/GavinTheArchitect/Eclipse-Shield)**
+An AI-powered system that analyzes user browsing patterns to block unproductive sites based on contextual task understanding. This was a deep dive into production-grade security engineering.
+
+* **Enterprise Security:** Comprehensive OWASP Top 10 compliance.
+* **Multi-layered Defense:** UFW firewall → Fail2ban → Nginx reverse proxy → Gunicorn WSGI → Flask security middleware.
+* **Hardening:** Redis-backed IP throttling, comprehensive input sanitization (XSS, SQLi, Prompt Injection), CSRF tokens, and secure authentication.
+* **DevOps:** Docker containerization, 50+ automated security tests.
+
 ---
 
-<h1 align="center">GitHub Medals Of Honor Collected (incl CY83R-3X71NC710N)</h1>
+<p align="center">
+  <a href="https://github.com/GavinTheArchitect/Event_Zero" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/CY83R-3X71NC710N/CY83R-3X71NC710N/raw/main/Event_Zero.png" alt="Event_Zero Logo" width="150">
+  </a>
+</p>
+
+#### **Event_Zero – Autonomous Malware Annihilation Engine**
+* **[View Repository (on this profile) →](https://github.com/GavinTheArchitect/Event_Zero)**
+An experimental, AI-driven architecture for the autonomous deconstruction and behavioral mapping of malicious code. It gives a Tier 1 AI (Google Gemini) full autonomy within a hardened BlackArch container to hunt, dissect, and neutralize threats.
+
+* **Autonomous Decision Core:** Reasoning engine with authority to install any of BlackArch's 2800+ tools (Radare2, Ghidra, Frida, etc.) and write custom analysis scripts.
+* **Adaptive Analysis:** AI pivots from static to dynamic analysis in real-time.
+* **Self-Healing Protocol:** AI analyzes its own tool/script failures and regenerates corrected code to continue the mission.
 
 ---
+
+<p align="center">
+  <a href="https://github.com/GavinTheArchitect/ShadowStrike-OS" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/CY83R-3X71NC710N/CY83R-3X71NC710N/raw/main/Logo-Upscaled.png" alt="ShadowStrike Logo" width="150">
+  </a>
+</p>
+
+#### **ShadowStrike OS - [Private Repository]**
+A custom, security-focused Linux distribution engineered for penetration testing and security research. This is my primary development testbed for integrating novel security tools and system hardening techniques.
+* **Architecture:** Built on a hardened Fedora base, integrating Pop!_OS tiling (COSMIC), and leveraging a Blackarch Docker container for an expanded toolset.
+
+---
+
+### Open Source Contributions
+* **[spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic/pull/117):** Revived an unmaintained project by patching the core auth error, becoming the de facto community version.
+* **[swayfx](https://github.com/WillPower3309/swayfx/pull/406):** Patched a critical build failure in the Wayland compositor's Nix flake dependencies.
+* **[SillyTavern Extension](https://github.com/SillyTavern/Extension-Speech-Recognition/pull/19):** Deployed a "heartbeat" mechanism to fix a persistent Web Speech API bug in the popular AI toolkit (16k+ stars).
+
+---
+
+### Historical Archive (CY83R-3X71NC710N)
+I no longer have access to my original high-school account, `CY83R-3X71NC710N`. It remains public as a **read-only archive** of my open-source contributions, 500+ followers, and historical stats.
+
+The trophies and stats below are from that archived profile.
+
+**[View the Archived Profile →](https://github.com/CY83R-3X71NC710N)**
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://hacked-github-stat-trophies.vercel.app/?username=cy83r-3x71nc710n&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&margin-w=18&margin-h=10" alt="GitHub Profile Trophy">
+    <img src="https://hacked-github-stat-trophies.vercel.app/?username=cy83r-3x71nc710n&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&margin-w=18&margin-h=10" alt="GitHub Profile Trophy from CY83R-3X71NC710N">
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=CY83R-3X71NC710N&show_icons=true&theme=radical&hide_title=false" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=CY83R-3X71NC710N&show_icons=true&theme=radical&hide_title=false" alt="GitHub Stats from CY83R-3X71NC710N">
   </a>
 </p>
-
 <p align="center">
-   <strong>Top 1% Coders USA</strong><br>
-     <a href="https://profile.codersrank.io/user/CY83R-3X71NC710N">
-       <img src="./CodersRank.png" alt="CY83R-3X71NC710N's CodersRank summary" width="500"/>
-     </a>
+    <strong>Top 1% Coders USA (from archived profile)</strong><br>
+    <a href="https://profile.codersrank.io/user/CY83R-3X71NC710N">
+      <img src="[./CodersRank.png]" alt="CY83R-3X71NC710N's CodersRank summary" width="500"/>
+    </a>
 </p>
-
-<p align="center">
-       <img src="./GHAchievements.png" alt="Achievements From GitHub" width="500"/>
-</p>
-
----
