@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/badge/Focus-Bug%20Bounty-brightgreen?style=for-the-badge" alt="Bug Bounty"/>
 </p>
 
-<p align="center">
-  <a href="[Your LinkedIn URL]">LinkedIn</a> • <a href="mailto:[Your Email]">Email</a>
-</p>
-
 ---
 
 ### About Me
