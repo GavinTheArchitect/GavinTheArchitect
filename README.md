@@ -140,4 +140,8 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
      </a>
 </p>
 
+<p align="center">
+       <img src="./GHAchievements.png" alt="Achievements From GitHub" width="500"/>
+</p>
+
 ---
