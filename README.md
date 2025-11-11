@@ -129,11 +129,4 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
   </a>
 </p>
 
-<p align="center">
-   <strong>Top 1% Coders USA</strong><br>
-     <a href="https://profile.codersrank.io/user/CY83R-3X71NC710N">
-       <img src="./CodersRank.png" alt="CY83R-3X71NC710N's CodersRank summary" width="500"/>
-     </a>
-</p>
-
 ---
