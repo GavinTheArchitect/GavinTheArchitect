@@ -127,7 +127,7 @@ A custom, security-focused Linux distribution engineered for penetration testing
 <h3 align="center">Historical Archive (CY83R-3X71NC710N)</h3>
 
 <p align="center">
-This is my original high-school account, <strong>CY83R-3X77NC710N</strong>. It remains public as a <strong>read-only archive</strong> of my open-source contributions, 500+ followers, and historical stats.
+This is my original Github Pro high-school account, <strong>CY83R-3X77NC710N</strong>. It remains public as a <strong>read-only archive</strong> of my open-source contributions, 500+ followers, and historical stats.
 <br><br>
 The trophies and stats below are from that archived profile.
 </p>
