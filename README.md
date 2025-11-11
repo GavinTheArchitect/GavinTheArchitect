@@ -116,3 +116,24 @@ My approach is **holistic**, **proactive**, and grounded in **technical expertis
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://hacked-github-stat-trophies.vercel.app/?username=cy83r-3x71nc710n&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&margin-w=18&margin-h=10" alt="GitHub Profile Trophy">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=CY83R-3X71NC710N&show_icons=true&theme=radical&hide_title=false" alt="GitHub Stats">
+  </a>
+</p>
+
+<p align="center">
+   <strong>Top 1% Coders USA</strong><br>
+     <a href="https://profile.codersrank.io/user/CY83R-3X71NC710N">
+       <img src="./CodersRank.png" alt="CY83R-3X71NC710N's CodersRank summary" width="500"/>
+     </a>
+</p>
+
+---
