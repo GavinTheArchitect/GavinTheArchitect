@@ -1,6 +1,6 @@
 <h1 align="center">GavinTheArchitect</h1>
 <p align="center">Visionary Leader | Offensive Security Architect | AI Engineer</p>
-<p align="center"><em>Alumnus: NSA Codebreaker | GIAC Advisory Board | Cyberstart Top 1%</em></p>
+<p align="center"><em>Alumnus: NSA Codebreaker Champion | FBI TEAM Program Protégé | GIAC Advisory Board | Cyberstart Top 1%</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Strategy-Visionary%20Leadership-black?style=for-the-badge&logo=github&color=FFC300" alt="Leadership Focus"/>
