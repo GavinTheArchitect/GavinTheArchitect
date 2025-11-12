@@ -3,7 +3,7 @@
 <p align="center"><em>Alumnus: NSA Codebreaker | GIAC Advisory Board | Cyberstart Top 1%</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Strategy-Leadership-black?style=for-the-badge&logo=github&color=FFC300" alt="Leadership Focus"/>
+  <img src="https://img.shields.io/badge/Strategy-Visionary%20Leadership-black?style=for-the-badge&logo=github&color=FFC300" alt="Leadership Focus"/>
   <img src="https://img.shields.io/badge/Focus-Architectural%20Offense-darkred?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Offensive Security Architect"/>
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blueviolet?style=for-the-badge&logo=google-cloud&logoColor=white" alt="AI Engineering"/>
 </p>
