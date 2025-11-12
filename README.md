@@ -1,5 +1,5 @@
 <h1 align="center">GavinTheArchitect</h1>
-<p align="center">Offensive Security Architect & AI Engineer</p>
+<p align="center">Visionary Leader | Offensive Security Architect | AI Engineer</p>
 <p align="center"><em>Alumnus: NSA Codebreaker | GIAC Advisory Board | Cyberstart Top 1%</em></p>
 
 <p align="center">
