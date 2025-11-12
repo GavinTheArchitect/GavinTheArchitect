@@ -16,7 +16,7 @@ My fascination with technology began not with formal coursework, but with a fund
 
 I believe in mastering both sides of security: I build and I break. Operating with a "purple-shaded" methodology, I thrive on this duality.
 
-**My Trajectory:** I'm aiming for Tier 1 exploit development and advanced penetration testing, on par with teams like Google's Project Zero, Apple SEAR, and the NSA's TAO. I hope to become a future CISO and Offensive Security Architect.
+**My Trajectory:** I'm aiming for Tier 1 exploit development and advanced penetration testing, on par with teams like Google's Project Zero, Apple SEAR, and the NSA's TAO. I am planning to become a future CISO and Offensive Security Architect.
 
 ---
 
