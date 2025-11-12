@@ -1,13 +1,11 @@
 <h1 align="center">GavinTheArchitect</h1>
-<p align="center">Cybersecurity Researcher & Developer</p>
-<p align="center"><em>(Previously CY83R-3X71NC710N)</em></p>
+<p align="center">Offensive Security Architect & AI Engineer</p>
+<p align="center"><em>Alumnus: NSA Codebreaker | GIAC Advisory Board | Cyberstart Top 1%</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge" alt="Offensive Security"/>
-  <img src="https://img.shields.io/badge/Focus-Offensive%20AI-purple?style=for-the-badge" alt="Offensive AI"/>
-  <img src="https://img.shields.io/badge/Focus-OS%20Internals-blue?style=for-the-badge" alt="OS Internals"/>
-  <img src="https://img.shields.io/badge/Focus-Red%20Teaming-darkred?style=for-the-badge" alt="Red Teaming"/>
-  <img src="https://img.shields.io/badge/Focus-Bug%20Bounty-brightgreen?style=for-the-badge" alt="Bug Bounty"/>
+  <img src="https://img.shields.io/badge/Strategy-Leadership-black?style=for-the-badge&logo=github&color=FFC300" alt="Leadership Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Architectural%20Offense-darkred?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Offensive Security Architect"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blueviolet?style=for-the-badge&logo=google-cloud&logoColor=white" alt="AI Engineering"/>
 </p>
 
 ---
