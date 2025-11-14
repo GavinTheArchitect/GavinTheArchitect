@@ -146,7 +146,7 @@ The trophies and stats below are from that archived profile.
 </p>
 <p align="center">
     <strong>Top 1% Coders USA (from archived profile)</strong><br>
-    <a href="https://profile.codersrank.io/user/CY83R-3X71NC710N">
+    <a href="https://web.archive.org/web/20250812155754/https:/profile.codersrank.io/user/CY83R-3X71NC710N>
       <img src="./CodersRank.png" alt="CY83R-3X71NC710N's CodersRank summary" width="500"/>
     </a>
 </p>
